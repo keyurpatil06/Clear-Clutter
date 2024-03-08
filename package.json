@@ -1,0 +1,12 @@
+{
+  "name": "clear-clutter",
+  "version": "1.0.0",
+  "description": "Organizes files within a directory by moving them into subdirectories based on their file extensions. Files with extensions other than 'js' and 'json' are moved to separate directories named after their extensions, helping to declutter the main directory.",
+  "main": "main.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keyur Patil",
+  "license": "ISC"
+}
